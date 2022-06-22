@@ -6,7 +6,7 @@ Jinja2==2.11.2
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.0
-numpy==1.19.1
+numpy==1.22.0
 ortools==7.7.7810
 Pillow==7.2.0
 protobuf==3.12.4
