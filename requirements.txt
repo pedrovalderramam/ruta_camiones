@@ -8,7 +8,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.0
 numpy==1.19.1
 ortools==7.7.7810
-Pillow==7.2.0
+Pillow==9.3.0
 protobuf==3.12.4
 pyparsing==2.4.7
 python-dateutil==2.8.1
